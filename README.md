@@ -12,18 +12,17 @@
 - [Recommendations](#recommendations)
 
 
-#### Project overview
-The goal of this data analysis project is to shed light on a pizza restaurant's sales results from the previous year. Through a comprehensive examination of the sales data, our aim is to discern patterns, provide evidence-based suggestions, and get a more profound comprehension of the organization's functioning.
+#### Project Overview
+This data analysis project aims to shed light on a pizza restaurant's sales results from the previous year. Through a comprehensive examination of the sales data, we aim to discern patterns, provide evidence-based suggestions, and better comprehend the organization's functioning.
 
 
 #### Data sources
-Pizza data: The dataset contains 4 tables in a csv format
+Pizza data: The dataset contains 4 tables in a CSV format
 
 
 #### Tools
 
 -	Excel  - Data cleaning
-	- [Download here](https://drive.google.com/drive/folders/1sT5AReif21UXjW1kICtZPrBb8yshNSOs?usp=sharing)
 -	MySQL – Data analysis
 -	Tableau  – Data visualization
 	- [View here](https://public.tableau.com/views/Platopizzasales/salesovercategory?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
