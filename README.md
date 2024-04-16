@@ -1,5 +1,16 @@
 # Plato pizza sales
 
+### Table of Contents
+
+- [Project overview](#project-overview)
+- [Data sources](#data-sources)
+- [Tools](#tools)
+- [Data Cleaning](#data-cleaning)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Result/Findings](#result/findings)
+- [Recommendations](#recommendations)
+
 
 #### Project overview
 The goal of this data analysis project is to shed light on a pizza restaurant's sales results from the previous year. Through a comprehensive examination of the sales data, our aim is to discern patterns, provide evidence-based suggestions, and get a more profound comprehension of the organization's functioning.
