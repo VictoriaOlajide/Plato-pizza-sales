@@ -24,8 +24,8 @@ Pizza data: The dataset contains 4 tables in a CSV format
 
 -	Excel  - Data cleaning
 -	MySQL – Data analysis
--	Tableau  – Data visualization
-	- [View here](https://public.tableau.com/views/Platopizzasales/salesovercategory?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link)
+-	Power BI  – Data visualization
+	- [View here](https://app.powerbi.com/MobileRedirect.html?groupObjectId=b3bbc700-3b2d-4650-8503-f2edf20d2170&reportPage=35a76959f0858d7e0efb&Context=share-report&bookmarkGuid=db6f910b-6f3e-494b-8548-31323c81f86e&action=OpenReport&reportObjectId=9b86e419-9b23-4f1c-b5c5-dcfd191baece&ctid=66b3f0c2-8bc6-451e-9603-986f618ae682&pbi_source=mobile_ios)
 
 
 #### Data Cleaning 
@@ -169,7 +169,7 @@ The analysis results are summarized as follows:
 - The Veggie pizza category had the lowest sales with 23.683% of the total sale comprising of 11,449 orders
 - The Brie Carre Pizza in the Supreme category which has the highest sale has the lowest amount of order.
 - The Total order received in the past year is 48,620.
-- The Average order value is 38.30.
+- The Average order value is $16.30.
 - The month of July had the highest revenue with sales of 72,557 with 4,301 count of order.
 - The month of October had the lowest sales of 64,027 with 3797 count of order.
 - The busiest hour is 12 noon and the busiest day of the week is Friday
