@@ -176,12 +176,12 @@ The analysis results are summarized as follows:
 
 #### Recommendations
 Based on the analysis, we recommend the following actions:
-1. Invest in marketing and promotions during the weekend.
-2. Run a customer feedback on the services run by the pizza restaurant
+1. Run a customer feedback on the services run by the pizza restaurant.
+2. Invest in marketing and promotions during the weekend.
 3. Invest in delivery service
 4. Focus on expanding the Classic pizza category 
 5. To successfully target high level customers, use a customer segmentation strategy.
 
-
+ However, more detailed information like location, environment, etc about the restaurant should be provided to make recommendations 2-4 more  effective
 
    
